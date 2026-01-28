@@ -118,3 +118,7 @@ Join the **Builder’s Console Log** community on Skool:
 ---
 ### 🚀 Esta línea fue creada en la rama nueva-idea y fusionada con éxito.
 ## 🚀 Estado: Inicio del desarrollo de Agentes IA - Supervisado por Elvis Canari
+### 🎯 Próximos Pasos (Meta: Finales del 2027) 📅
+- [ ] Dominar Python y Agentes de IA
+- [ ] Automatizar mi empresa de alquileres y web
+- [ ] ¡Conquistar el mercado!
